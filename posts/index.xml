@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Jimmy Hong</title>
+    <link>http://www.jimmyhong23.com/posts/</link>
+    <description>Recent content in Posts on Jimmy Hong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Nov 2018 18:04:01 -0500</lastBuildDate>
+    
+	<atom:link href="http://www.jimmyhong23.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My Projects</title>
+      <link>http://www.jimmyhong23.com/posts/my-projects/</link>
+      <pubDate>Mon, 05 Nov 2018 18:04:01 -0500</pubDate>
+      
+      <guid>http://www.jimmyhong23.com/posts/my-projects/</guid>
+      <description>Here are some of my current projects below!
+www.jimmyhong23.com</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>http://www.jimmyhong23.com/posts/my-first-post/</link>
+      <pubDate>Mon, 05 Nov 2018 17:56:43 -0500</pubDate>
+      
+      <guid>http://www.jimmyhong23.com/posts/my-first-post/</guid>
+      <description>Hiyo!
+I am currently a 20 year old, who is attending school at University at Buffalo. On top of my academics, I&amp;rsquo;m currently an intern at the leading cloud foundry consultancy company - Stark &amp;amp; Wayne.
+I am expected to graduate in 2020 with a B.S in Computer Science. I am just enjoying the ride and am using Hugo to create my website!
+Some of my hobbies include going hiking, climbing, going to the gym and when I have spare time, I play League of Legends in my spare time.</description>
+    </item>
+    
+  </channel>
+</rss>
