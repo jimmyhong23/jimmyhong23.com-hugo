@@ -18,7 +18,9 @@
       
       <guid>https://www.jimmyhong23.com/posts/my-projects/</guid>
       <description>Here are some of my current projects below!
-www.jimmyhong23.com</description>
+Website using Hugo!
+Hugo website currently works with CF, but no direct link as I have this website. Files with CF implementation is on my GitHubhere.
+Website using Verse!</description>
     </item>
     
     <item>
@@ -30,7 +32,16 @@ www.jimmyhong23.com</description>
       <description>Hiyo!
 I am currently a 20 year old, who is attending school at University at Buffalo. On top of my academics, I&amp;rsquo;m currently an intern at the leading cloud foundry consultancy company - Stark &amp;amp; Wayne.
 I am expected to graduate in 2020 with a B.S in Computer Science. I am just enjoying the ride and am using Hugo to create my website!
-Some of my hobbies include going hiking, climbing, going to the gym and when I have spare time, I play League of Legends in my spare time.</description>
+Some of my hobbies include: hiking, climbing, going to the gym and when I have spare time, I play League of Legends!</description>
+    </item>
+    
+    <item>
+      <title>Personal Website</title>
+      <link>https://www.jimmyhong23.com/portfolio/website/</link>
+      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jimmyhong23.com/portfolio/website/</guid>
+      <description>This is a personal project of mine as I think it is good for all potential Computer Science graduates to have a website. This allows recruiters to see what you are capable of, and it is good to keep track of all your things! Currently, I have it hosted on a domain but I have also implemented Cloud Foundry into my website that can be seen on my GitHub.</description>
     </item>
     
   </channel>
