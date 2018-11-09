@@ -17,7 +17,8 @@
       <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>https://www.jimmyhong23.com/portfolio/website/</guid>
-      <description>This is a personal project of mine as I think it is good for all potential Computer Science graduates to have a website. This allows recruiters to see what you are capable of, and it is good to keep track of all your things! Currently, I have it hosted on a domain but I have also implemented Cloud Foundry into my website that can be seen on my GitHub.</description>
+      <description>This is a personal project of mine as I think it is good for all potential Computer Science graduates to have a website. This allows recruiters to see what you are capable of, and it is good to keep track of all your things!
+Currently, I have it hosted on GCP (Google Cloud Platform) but I have also implemented Cloud Foundry using PWS into my website that can be seen on my GitHub.</description>
     </item>
     
     <item>
