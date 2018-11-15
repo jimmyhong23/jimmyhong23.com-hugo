@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.jimmyhong23.com/posts/cryptocurrency/</loc>
+    <lastmod>2018-11-14T17:56:43-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.jimmyhong23.com/posts/my-projects/</loc>
     <lastmod>2018-11-05T18:04:01-05:00</lastmod>
   </url>
@@ -29,13 +34,13 @@
   
   <url>
     <loc>https://www.jimmyhong23.com/</loc>
-    <lastmod>2018-11-05T18:04:01-05:00</lastmod>
+    <lastmod>2018-11-14T17:56:43-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.jimmyhong23.com/posts/</loc>
-    <lastmod>2018-11-05T18:04:01-05:00</lastmod>
+    <lastmod>2018-11-14T17:56:43-05:00</lastmod>
     <priority>0</priority>
   </url>
   
