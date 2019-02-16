@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Jimmy Hong</title>
+    <title>Posts on Jimmy</title>
     <link>https://www.jimmyhong23.com/posts/</link>
-    <description>Recent content in Posts on Jimmy Hong</description>
+    <description>Recent content in Posts on Jimmy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Nov 2018 17:56:43 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 15 Feb 2019 17:56:43 -0500</lastBuildDate>
     
 	<atom:link href="https://www.jimmyhong23.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My Life in 2019 - February</title>
+      <link>https://www.jimmyhong23.com/posts/lifein2019/</link>
+      <pubDate>Fri, 15 Feb 2019 17:56:43 -0500</pubDate>
+      
+      <guid>https://www.jimmyhong23.com/posts/lifein2019/</guid>
+      <description>Hi! I haven&amp;rsquo;t updated my website in a while so it has been a minute. A little about myself in the past few months. I got a Pomeranian Husky puppy and he is called named &amp;ldquo;Jin&amp;rdquo;. He is definitely got my hands full but he is currently not with me at college and I could not watch him as I would have liked to.
+Ever since I started attending University at Buffalo to pursue my Bachelors in Computer Science, I have met so many great individuals that support me and love me for who I am.</description>
+    </item>
     
     <item>
       <title>CryptoCurrency</title>
